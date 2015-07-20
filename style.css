@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+body {
+  font-family: 'Shadows Into Light';
+  color:#778899 ; background-color: #E6E6FA;
+  text-align: center; width: 100%;
+  background-image: url(http://www.imgbase.info/images/safe-wallpapers/anime/howls_moving_castle/46392_howls_moving_castle_studio_ghibli.jpg);
+}
+
+/* body or html tag--> same results in changing background color */
+#worktag{
+  color: green;
+}
+.bluetext{
+  color: blue
+}
